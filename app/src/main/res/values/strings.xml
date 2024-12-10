@@ -1,0 +1,6 @@
+<resources>
+    <string name="app1_name">TiGanApp</string>
+    <string name="take1_phot">Take Photo</string>
+    <string name="start1_capture">Start Capture</string>
+    <string name="stop_1capture">Stop Capture</string>
+</resources>
